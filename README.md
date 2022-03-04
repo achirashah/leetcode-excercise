@@ -1,1 +1,1 @@
-Solutions of leetcode problems
+practicing solving leetcode problems 
